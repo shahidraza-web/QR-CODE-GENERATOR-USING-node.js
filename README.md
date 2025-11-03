@@ -13,4 +13,4 @@ Run the program in your terminal
 Enter your desired text or URL
 The script automatically creates a QR code image file
 
-Execution File Link:
+Execution File Link:https://drive.google.com/drive/folders/1ATgW4wdQB9AkM6lvn7LqO5F1d--A5C5F?usp=sharing
