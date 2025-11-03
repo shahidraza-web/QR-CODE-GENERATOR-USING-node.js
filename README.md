@@ -12,4 +12,5 @@ File System (fs)
 Run the program in your terminal
 Enter your desired text or URL
 The script automatically creates a QR code image file
+
 Execution File Link:
