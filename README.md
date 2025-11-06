@@ -13,4 +13,8 @@ Run the program in your terminal
 Enter your desired text or URL
 The script automatically creates a QR code image file
 
-Execution File Link:https://drive.google.com/drive/folders/1ATgW4wdQB9AkM6lvn7LqO5F1d--A5C5F?usp=sharing
+Execution File Link: https://drive.google.com/drive/folders/1ATgW4wdQB9AkM6lvn7LqO5F1d--A5C5F?usp=sharing
+Installation instructions:
+1. open the terminal change the directory to this project's directory using cd 'directory-name'
+2. Install all the required frameworks , middlewares and libraries using npm i command in the terminaL
+3. and then type node index.js to open the project and see its working 
